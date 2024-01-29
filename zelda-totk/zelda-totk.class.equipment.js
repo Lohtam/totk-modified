@@ -616,6 +616,10 @@ Equipment.AVAILABILITY={
 
 		'Weapon_Sword_070_Broken', //*Decayed Master Sword (unused)
 		'Npc_Zelda_Torch', //*Zelda's intro torch (unused)
+		'Weapon_Sword_070_ForGrabEvent', //MasterSwordGrab
+		'Weapon_Sword_071', //UnknownMasterSword
+		'Weapon_Sword_071_Broken', //DMSCutscene?
+		'Weapon_Sword_077', //UnusedSword
 
 		'Weapon_Lsword_174', //Giant Boomerang (decayed)
 		'Weapon_Lsword_051', //Giant Boomerang
