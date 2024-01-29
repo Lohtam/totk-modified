@@ -537,6 +537,10 @@ Item.AVAILABILITY={
 		'Item_KingScale', //King's Scale
 		'Item_Weapon_01', //Ancient Blade
 		'Obj_FireWoodBundle', //Wood
+		'Obj_HeartUtuwa_A_01', //Heart Container
+		'Obj_StaminaUtuwa_A_01', //Stamina
+		'KeySmall', //Key
+		"SpObj_ControlStick_A_03", //03 Stick
 	],
 
 		'food':[
