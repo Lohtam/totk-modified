@@ -264,7 +264,8 @@ Armor.AVAILABILITY=[
 	'Armor_1300_Upper','Armor_1301_Upper','Armor_1302_Upper','Armor_1303_Upper','Armor_1304_Upper', //Yiga Armor
 	'Armor_1300_Lower','Armor_1301_Lower','Armor_1302_Lower','Armor_1303_Lower','Armor_1304_Lower', //Yiga Tight
 
-	'Armor_1150_Upper' //*Tunic of memories (intro, unused)
+	'Armor_1150_Upper', //*Tunic of memories (intro, unused)
+	'Armor_999_Head' //*Link's Hair (No effect)
 ];
 
 Armor.INFO=(function(upgrades, dyeables){
