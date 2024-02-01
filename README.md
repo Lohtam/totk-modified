@@ -1,20 +1,16 @@
-# HTML5 Savegame editors
-A compilation of console savegame editors made with HTML5 technologies.
+# TOTK Save Editor
+Tears of the Kingdom save editor based on Marc Robledo's original save editor.
+Check it out,
+https://github.com/marcrobledo/savegame-editors
 
-It can edit a few bits in the following games:
- * The legend of Zelda: Tears of the Kingdom (Switch)
- * The legend of Zelda: Breath of the wild (Wii U / Switch)
- * Super Smash Bros. Ultimate (Switch)
- * Hyrule Warriors (Wii U)
- * Kid Icarus: Uprising (3DS)
- * Final Fantasy Explorers (3DS)
- * Mario Kart 7 (3DS)
- * Super Kirby Clash (Switch)
- * Team Kirby Clash Deluxe (3DS)
- * Kirby's Blowout Blast (3DS)
- * Picross 3D Round 2 (3DS)
- * Sushi Striker (3DS)
- * Pokémon Picross (3DS)
- * Pokémon Shuffle (3DS)
- * Rhythm Paradise Megamix (3DS)
- * StreetPass Mii Plaza (3DS)
+# What is the point of this fork?
+Marc Robledo's save editor was missing certain items that are found inside of the game. So I decided to add them in. Now, you may think I'm smart, but I'm actually not, Marc Robledo did a great job making the code very readable and easy to modify. Thanks, Marc Robledo! I only added the items into the lists and added some locale names, made some changes to my own tastes, and if you don't like them, sounds like a you problem.
+I also changed the example save file to one at the start of GSI. I'm trying to figure out how to add other example files currently.
+
+# Issues
+Pretty much the same as the original, with some new ones when it comes to links.
+
+# Anything Else?
+You can contact me on discord, my tag is genericvideogamenpc
+
+Trans Rights!
