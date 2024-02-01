@@ -204,7 +204,7 @@ window.addEventListener('load', function(){
 	if(!SavegameEditor.noDemo){
 		var demoMessage=document.createElement('button');
 		demoMessage.id='demo';
-		demoMessage.innerHTML='Do you want to try it out? <u>Try an example savegame</u>';
+		demoMessage.innerHTML='Click Here for a save at the start of the Great Sky Island.';
 		demoMessage.addEventListener('click', function(){
 			var filename=getSavegameDefaultName();
 			if(typeof window.fetch==='function'){

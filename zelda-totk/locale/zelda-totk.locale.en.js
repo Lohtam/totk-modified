@@ -49,6 +49,9 @@ Weapon_Sword_168:'Wooden Stick (decayed)',
 Weapon_Sword_077:'*Master Sword (glitched)',
 Weapon_Sword_070_Broken:'*Decayed Master Sword (unobtainable)',
 Npc_Zelda_Torch:'*Zelda\'s intro torch (unobtainable)',
+Weapon_Sword_070_ForGrabEvent:'*Master Sword in Light Dragon (Unobtainable)',
+Weapon_Sword_071:'*Unusable Unobtainable Master Sword',
+Weapon_Sword_071_Broken:'*Decayed Master Sword World Object',
 
 Weapon_Lsword_001:'Traveler\'s Claymore',
 Weapon_Lsword_002:'Soldier\'s Claymore',
@@ -805,6 +808,12 @@ Armor_1303_Lower:'Yiga Tights ★★★',
 Armor_1304_Lower:'Yiga Tights ★★★★',
 
 Armor_1150_Upper:'*Tunic of memories (unobtainable)',
+Armor_999_Head:'Link\'s hair (unobtainable)',
+Armor_1501_Upper:'Link\'s body with human arm (unobtainable)',
+Armor_Default_Lower:'Link\'s body, unusable (unobtainable)',
+Armor_Default_Upper:'Link\'s body, unusable (unobtainable)',
+Armor_1040_Upper:'Aspect Chest Piece (unobtainable)',
+Armor_1040_Lower:'Aspect Legs (unobtainable)',
 
 
 
@@ -1333,6 +1342,7 @@ SpObj_Cannon_Capsule_A_01:'Cannon',
 SpObj_Cart_Capsule_A_01:'Cart',
 SpObj_Chaser_Capsule_A_01:'Homing Cart',
 SpObj_ControlStick_Capsule_A_01:'Steering Stick',
+SpObj_ControlStick_A_03:'03 Steering Stick',
 SpObj_GolemHead_Capsule_A_01:'Construct Head',
 SpObj_WindGenerator_Capsule_A_01:'Fan',
 SpObj_FloatingStone_Capsule_A_01:'Hover Stone',
@@ -1515,5 +1525,11 @@ GameRomHorseSpPattern:'Spot',
 GameRomHorseBone:'*Stalhorse',
 GameRomHorseBone_AllDay:'*Stalhorse (daytime)',
 GameRomHorseForStreetVender:'*Merchant',
-GameRomHorseNushi:'*Lord of the Mountain'
+GameRomHorseNushi:'*Lord of the Mountain',
+
+// Extra
+Obj_HeartUtuwa_A_01:'Heart Container',
+Obj_StaminaUtuwa_A_01:'Stamina Vessel',
+KeySmall:'Small Key (Does nothing)',
+SpObj_LiftGeneratorWing_A_01_MiniGame:'Infinity Wing (Eventide Minigame)'
 });

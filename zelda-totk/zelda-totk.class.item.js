@@ -541,7 +541,7 @@ Item.AVAILABILITY={
 		'Obj_StaminaUtuwa_A_01', //Stamina
 		'KeySmall', //Key
 		"SpObj_ControlStick_A_03", //03 Stick
-		"Dm_Npc_Ganondorf_M", //GanonMummy
+		"SpObj_LiftGeneratorWing_A_01_MiniGame", //Infinity Wing
 		"Npc_CaveMasterMedal", //BubbulGem
 		"Obj_AutoBuilder", //Autobuild
 		"Obj_Camera", //Camera
@@ -550,12 +550,10 @@ Item.AVAILABILITY={
 		"Obj_KorokNuts", //KorokSeed
 		"Obj_OneTouchBond", //Fuse
 		"Obj_ReverseRecorder", //Recall
-		"Obj_SafeWill", //Sage's Will
+		"Obj_SageWill", //Sage's Will
 		"Obj_Tooreroof", //Ascend
 		"Obj_UltraHand", //Ultrahand
 		"Obj_WarpDLC", //Travel Medallion
-		"Dm_Npc_Zelda_Search_Improve", //Zelda
-		"Weapon_Sword_071", //Master Sword Cutscene
 	],
 
 		'food':[
