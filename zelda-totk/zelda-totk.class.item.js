@@ -554,6 +554,8 @@ Item.AVAILABILITY={
 		"Obj_Tooreroof", //Ascend
 		"Obj_UltraHand", //Ultrahand
 		"Obj_WarpDLC", //Travel Medallion
+		"Obj_CageIron_A_01", //Iron Cage
+		"Obj_Tumbleweed_A_01", //Tumbleweed
 	],
 
 		'food':[
