@@ -542,18 +542,7 @@ Item.AVAILABILITY={
 		'KeySmall', //Key
 		"SpObj_ControlStick_A_03", //03 Stick
 		"SpObj_LiftGeneratorWing_A_01_MiniGame", //Infinity Wing
-		"Npc_CaveMasterMedal", //BubbulGem
-		"Obj_AutoBuilder", //Autobuild
-		"Obj_Camera", //Camera
 		"Obj_DRStone_Get", //PurahPad
-		"Obj_DungeonClearSeal", //Light of Blessing
-		"Obj_KorokNuts", //KorokSeed
-		"Obj_OneTouchBond", //Fuse
-		"Obj_ReverseRecorder", //Recall
-		"Obj_SageWill", //Sage's Will
-		"Obj_Tooreroof", //Ascend
-		"Obj_UltraHand", //Ultrahand
-		"Obj_WarpDLC", //Travel Medallion
 		"Obj_CageIron_A_01", //Iron Cage
 		"Obj_Tumbleweed_A_01", //Tumbleweed
 	],

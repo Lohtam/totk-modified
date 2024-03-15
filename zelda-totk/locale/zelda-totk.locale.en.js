@@ -643,6 +643,9 @@ Armor_1038_Head:'Ancient Hero\'s Aspect ★★',
 Armor_1039_Head:'Ancient Hero\'s Aspect ★★★',
 Armor_1040_Head:'Ancient Hero\'s Aspect ★★★★',
 
+Armor_1040_Upper:'Aspect Chest Piece (unobtainable)',
+Armor_1040_Lower:'Aspect Legs (unobtainable)',
+
 Armor_1043_Upper:'Archaic Tunic',
 Armor_1043_Lower:'Archaic Legwear',
 Armor_1044_Lower:'Archaic Warm Greaves',
@@ -810,10 +813,8 @@ Armor_1304_Lower:'Yiga Tights ★★★★',
 Armor_1150_Upper:'*Tunic of memories (unobtainable)',
 Armor_999_Head:'Link\'s hair (unobtainable)',
 Armor_1501_Upper:'Link\'s body with human arm (unobtainable)',
-Armor_Default_Lower:'Link\'s body, unusable (unobtainable)',
-Armor_Default_Upper:'Link\'s body, unusable (unobtainable)',
-Armor_1040_Upper:'Aspect Chest Piece (unobtainable)',
-Armor_1040_Lower:'Aspect Legs (unobtainable)',
+Armor_Default_Lower:'Link\'s legs, unusable (unobtainable)',
+Armor_Default_Upper:'Link\'s chest, unusable (unobtainable)',
 
 
 
@@ -1342,7 +1343,7 @@ SpObj_Cannon_Capsule_A_01:'Cannon',
 SpObj_Cart_Capsule_A_01:'Cart',
 SpObj_Chaser_Capsule_A_01:'Homing Cart',
 SpObj_ControlStick_Capsule_A_01:'Steering Stick',
-SpObj_ControlStick_A_03:'03 Steering Stick',
+SpObj_ControlStick_A_03:'03 Steering Stick (Minigame)',
 SpObj_GolemHead_Capsule_A_01:'Construct Head',
 SpObj_WindGenerator_Capsule_A_01:'Fan',
 SpObj_FloatingStone_Capsule_A_01:'Hover Stone',
@@ -1530,6 +1531,6 @@ GameRomHorseNushi:'*Lord of the Mountain',
 // Extra
 Obj_HeartUtuwa_A_01:'Heart Container',
 Obj_StaminaUtuwa_A_01:'Stamina Vessel',
-KeySmall:'Small Key (Does nothing)',
+KeySmall:'Small Key',
 SpObj_LiftGeneratorWing_A_01_MiniGame:'Infinity Wing (Eventide Minigame)'
 });

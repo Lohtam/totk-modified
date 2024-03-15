@@ -41,6 +41,17 @@ body{
 }
 
 
+/* pick savegame slot screen */
+#container-savegameslots .row-item{
+	background-color: rgba(0,0,0,0.2);
+	padding:0;
+	margin:16px 0;
+	align-items:normal;
+	min-height:144px; /* caption 256x144 */
+	max-height:144px;
+}
+
+
 
 
 
@@ -734,6 +745,20 @@ label.clickable:has(> input[type=radio]:checked){
 	top:80px;
 }
 #demo:hover{
+	background-color:#bbb;
+	color:#000
+}
+
+#demo2{
+	position:relative;
+	text-decoration:none;
+	padding:4px 16px;
+	border-radius:3px;
+	clear:both;
+	top:140px;
+}
+
+#demo2:hover{
 	background-color:#bbb;
 	color:#000
 }
