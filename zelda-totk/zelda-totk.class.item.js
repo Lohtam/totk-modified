@@ -545,6 +545,7 @@ Item.AVAILABILITY={
 		"Obj_DRStone_Get", //PurahPad
 		"Obj_CageIron_A_01", //Iron Cage
 		"Obj_Tumbleweed_A_01", //Tumbleweed
+		"DgnObj_Small_BoardStone_A_03", //Greenscreen Mod
 	],
 
 		'food':[
