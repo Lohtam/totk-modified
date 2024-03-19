@@ -1,3 +1,4 @@
+
 Locale.add('en', {
 /* Zelda TOTK Savegame Editor - english translation */
 
@@ -52,6 +53,11 @@ Npc_Zelda_Torch:'*Zelda\'s intro torch (unobtainable)',
 Weapon_Sword_070_ForGrabEvent:'*Master Sword in Light Dragon (Unobtainable)',
 Weapon_Sword_071:'*Unusable Unobtainable Master Sword',
 Weapon_Sword_071_Broken:'*Decayed Master Sword World Object',
+
+Weapon_Sword_152:'Riju\'s Scimitars of the Seven',
+Weapon_Lsword_154:'Yunobo\'s Boulder Breaker',
+Weapon_Spear_150:'Sidon\'s Lightscale Trident',
+
 
 Weapon_Lsword_001:'Traveler\'s Claymore',
 Weapon_Lsword_002:'Soldier\'s Claymore',
@@ -156,6 +162,11 @@ Weapon_Bow_105:'Strong Construct Bow',
 Weapon_Bow_106:'Mighty Construct Bow',
 Weapon_Bow_107:'Old Wooden Bow',
 Weapon_Bow_166:'Demon King\'s Bow',
+
+Weapon_Bow_116:'Tulin\'a Swallow Bow',
+Weapon_Bow_128:'Tulin\'s Great Eagle Bow',
+Weapon_Bow_016_Event:'Tulin\'s Swallow Bow (Aerocuda)',
+Weapon_Bow_166_For_Ganondorf:'Demon King\'s Bow (Used by Ganon)',
 
 Weapon_Shield_001:'Wooden Shield',
 Weapon_Shield_002:'Soldier\'s Shield',
