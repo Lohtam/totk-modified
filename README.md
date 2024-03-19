@@ -1,8 +1,12 @@
 # TOTK Save Editor
 Tears of the Kingdom save editor based on Marc Robledo's original save editor.
 Check it out,
-https://github.com/marcrobledo/savegame-editors
++ https://github.com/marcrobledo/savegame-editors
+
 Additionally, I would like to thank Aquacluck for creating the save selection, it makes using the editor much easier!
+
+Check out my TOTK content creation modlist! Contains mods I made and for others to help with video creation:
++ https://github.com/genericvideogamenpc/totk-video-creation-mods
 
 # How can I use it?
 You're going to need a modded Nintendo Switch or use an emulator like Yuzu (and alternatives) or Ryujinx.
