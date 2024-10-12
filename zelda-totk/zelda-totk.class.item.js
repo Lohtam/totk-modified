@@ -546,6 +546,9 @@ Item.AVAILABILITY={
 		"Obj_CageIron_A_01", //Iron Cage
 		"Obj_Tumbleweed_A_01", //Tumbleweed
 		"DgnObj_Small_BoardStone_A_03", //Greenscreen Mod
+		"BarrelBomb", //Normal Bomb Barrel
+		"SpObj_BalloonEnvelope_A_05", //InfiniteBalloon
+		"DungeonBoss_Goron_Rock_Weapon_Large", //Gohma Rock
 	],
 
 		'food':[
